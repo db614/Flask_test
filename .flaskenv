@@ -1,1 +1,2 @@
 FLASK_APP=instance.py
+FLASK_DEBUG=0
